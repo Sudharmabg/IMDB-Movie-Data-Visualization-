@@ -11,3 +11,11 @@ I have performed the following steps to complete an EDA :-
     c) Extracting the movies with a negative profit and storing them in a new dataframe - neg_profit
     d) MetaCritic score is on a scale of 100 whereas the IMDb_rating is on a scale of 10 hence converting the MetaCritic column to a scale of 10.
     e) Combining the dataframes by genre 
+
+
+2. Data Analysis :- 
+    Plotting graphs using seaborn and matplotlib to derive inferences on 
+            a) Genre
+            b) Gender and Genre
+            c) US viewers vs Non US viewers 
+            d) Top 1000 voters vs Genre
